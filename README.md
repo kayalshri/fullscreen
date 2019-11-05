@@ -1,15 +1,15 @@
 # fullscreen
-
+```
 <script src='fullScreenApp.js' type='text/javascript' ></script>
 <link href='portlet.css' rel='stylesheet' type='text/css' />
-
+```
 
 ## Maintain the below code structure.
 
 portlet > portlet-title > tools > a to the button 
 
 portlet > portlet-body to the content
-
+```
 <section class="portlet">
 		<div class="row portlet-title">
 			<div class="col-md-8">
@@ -24,3 +24,4 @@ portlet > portlet-body to the content
 			</div>	
 		</div>
 	</section>
+```
